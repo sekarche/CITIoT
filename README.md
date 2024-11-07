@@ -1,5 +1,5 @@
 
-Guide for setting up Raspberry Pi with Comitup for headless Wi-Fi configuration
+**Guide for setting up Raspberry Pi with Comitup for headless Wi-Fi configuration**
 
 
 Required hardware : 
