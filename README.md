@@ -2,13 +2,12 @@
 **Guide for setting up Raspberry Pi with Comitup for headless Wi-Fi configuration**
 
 
-Required hardware : 
-Raspberry Pi Zero Wireless WH (Pre-Soldered Header)
-https://robu.in/product/raspberry-pi-zero-wireless-wh-pre-soldered-header/
-Standard 5V 3A Power Supply with Micro USB Plug
-SanDisk Micro SD/SDHC 32GB Class 10 Memory Card
-
-Steps: 
+Required hardware :   Raspberry Pi Zero Wireless WH (Pre-Soldered Header)  
+https://robu.in/product/raspberry-pi-zero-wireless-wh-pre-soldered-header/  
+Standard 5V 3A Power Supply with Micro USB Plug  
+SanDisk Micro SD/SDHC 32GB Class 10 Memory Card  
+  
+Steps:   
 Download Comitup Image: Download the Comitup Raspberry Pi OS image (Lite or full version) from the official website. (https://davesteele.github.io/comitup/)
 Flash the SD Card: Use an imaging tool (balenaEtcher software) to write the image to the SD card (Prefer 32GB).
 Insert SD and Boot: Insert the SD into the Raspberry Pi and power it ON. SSH is enabled by default; use comitup (case-sensitive) as both username and password. 
